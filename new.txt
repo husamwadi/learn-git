@@ -11,12 +11,9 @@ baba this
 123
 
 
-baba this
-baba this
-123
+im so happy that git is awesome
+
 123
 
-baba this
-baba this
 123
 123
